@@ -84,7 +84,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="motor" />
+        <Component Name="motor1" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
